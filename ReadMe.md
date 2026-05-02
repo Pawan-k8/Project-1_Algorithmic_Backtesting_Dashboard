@@ -58,7 +58,7 @@ triggering real-time updates of the canvas and P&L display.
 
 exports live alerts to dedicated telegram channel.
 
-#Brief summation of all steps
+## Architecture
 
         ##code structure
         StockScanner Script
