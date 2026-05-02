@@ -24,7 +24,7 @@ providing a clear perspective on alpha generation.
         └── Rate limited sleeps between calls
 
 ## Tools 
-Python, SQL, VS code
+Python, SQL, VS code, Excel, Json
 
 ## Libraries used 
 Pandas, Matplotlib, tKinter, SmartApi, pyotp, asyncio, Telegram
