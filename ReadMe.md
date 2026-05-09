@@ -1,4 +1,4 @@
-# Project-1 Algorithmic Backtesting Dashboard 
+# Project_Algo-Algorithmic Backtesting Dashboard 
 ## Hybrid processing - Live data + Historic data
 
 ### Duration: feb 2024 - sep 2024 
